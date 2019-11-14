@@ -10,6 +10,6 @@ class Student < User
     @knowledge << knowledge
   end
   
-  
+  p 
   
 end
