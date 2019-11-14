@@ -9,4 +9,7 @@ class Student < User
     puts #{knowledge}
     @knowledge << knowledge
   end
+  
+  @knowledge
+  
 end
