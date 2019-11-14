@@ -10,6 +10,6 @@ class Student < User
     @knowledge << knowledge
   end
   
-  @knowledge.student
+  
   
 end
