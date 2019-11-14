@@ -5,8 +5,8 @@ class Student < User
     
   end  
   
-  def learn(book)
-    puts #{book}
-    @kowledge << learn
+  def learn(knowledge)
+    puts #{knowledge}
+    @kowledge << knowledge
   end
 end
