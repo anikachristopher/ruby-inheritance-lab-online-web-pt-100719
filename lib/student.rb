@@ -6,7 +6,7 @@ class Student < User
   end  
   
   def learn(knowledge)
-    puts #{knowledge}
+    return #{knowledge}
     @knowledge << knowledge
   end
   
